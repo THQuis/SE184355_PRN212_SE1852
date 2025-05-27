@@ -33,7 +33,7 @@ Console.WriteLine(employee2);
 Employee employee3 = new Employee()
 {
     id = 3;
-    name = "Lê Thị Trà Mi";
+    name = "Lê Thị Trà Mi",
     email = "truongqui858@gmail.com";
     phone = "0924626416";
 };
