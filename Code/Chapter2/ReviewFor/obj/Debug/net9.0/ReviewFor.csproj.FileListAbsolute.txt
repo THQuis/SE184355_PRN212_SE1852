@@ -1,0 +1,14 @@
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.exe
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.deps.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.runtimeconfig.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\refint\ReviewFor.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.genruntimeconfig.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ref\ReviewFor.dll
