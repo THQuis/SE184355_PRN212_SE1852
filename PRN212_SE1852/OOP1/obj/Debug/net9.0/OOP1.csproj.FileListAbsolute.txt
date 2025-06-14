@@ -1,0 +1,4 @@
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.csproj.CoreCompileInputs.cache

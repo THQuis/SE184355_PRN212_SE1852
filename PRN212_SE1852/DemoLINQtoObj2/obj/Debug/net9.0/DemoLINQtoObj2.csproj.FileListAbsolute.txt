@@ -1,0 +1,14 @@
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\bin\Debug\net9.0\DemoLINQtoObj2.exe
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\bin\Debug\net9.0\DemoLINQtoObj2.deps.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\bin\Debug\net9.0\DemoLINQtoObj2.runtimeconfig.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\bin\Debug\net9.0\DemoLINQtoObj2.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\bin\Debug\net9.0\DemoLINQtoObj2.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\DemoLINQtoObj2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\DemoLINQtoObj2.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\DemoLINQtoObj2.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\DemoLINQtoObj2.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\DemoLINQtoObj2.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\refint\DemoLINQtoObj2.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\DemoLINQtoObj2.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\DemoLINQtoObj2.genruntimeconfig.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj2\obj\Debug\net9.0\ref\DemoLINQtoObj2.dll

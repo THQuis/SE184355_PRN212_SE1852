@@ -1,0 +1,14 @@
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.exe
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.deps.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.runtimeconfig.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\refint\ReviewNestedLoop.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.genruntimeconfig.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ref\ReviewNestedLoop.dll

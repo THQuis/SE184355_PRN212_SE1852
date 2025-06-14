@@ -1,0 +1,14 @@
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\bin\Debug\net9.0\DemoLINQtoObj.exe
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\bin\Debug\net9.0\DemoLINQtoObj.deps.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\bin\Debug\net9.0\DemoLINQtoObj.runtimeconfig.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\bin\Debug\net9.0\DemoLINQtoObj.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\bin\Debug\net9.0\DemoLINQtoObj.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\DemoLINQtoObj.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\DemoLINQtoObj.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\DemoLINQtoObj.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\DemoLINQtoObj.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\DemoLINQtoObj.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\refint\DemoLINQtoObj.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\DemoLINQtoObj.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\DemoLINQtoObj.genruntimeconfig.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\DemoLINQtoObj\obj\Debug\net9.0\ref\DemoLINQtoObj.dll

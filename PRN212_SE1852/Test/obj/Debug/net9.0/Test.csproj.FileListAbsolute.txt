@@ -1,0 +1,14 @@
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\bin\Debug\net9.0\Test.exe
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\bin\Debug\net9.0\Test.deps.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\bin\Debug\net9.0\Test.runtimeconfig.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\bin\Debug\net9.0\Test.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\bin\Debug\net9.0\Test.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\Test.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\Test.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\Test.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\Test.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\refint\Test.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\Test.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\Test\obj\Debug\net9.0\ref\Test.dll

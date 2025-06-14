@@ -1,0 +1,14 @@
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\bin\Debug\net9.0\OOP2.exe
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\bin\Debug\net9.0\OOP2.deps.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\bin\Debug\net9.0\OOP2.runtimeconfig.json
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\bin\Debug\net9.0\OOP2.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\bin\Debug\net9.0\OOP2.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\OOP2.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\OOP2.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\OOP2.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\OOP2.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\refint\OOP2.dll
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\OOP2.pdb
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\OOP2.genruntimeconfig.cache
+D:\DOC\ky5\PRN212\code\PRN212_SE1852\OOP2\obj\Debug\net9.0\ref\OOP2.dll
