@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "FcDfiEB4Pzc=",
-  "success": true,
-  "projectFilePath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP5_clone\\OOP5_clone.csproj",
+  "dgSpecHash": "UPeWE2/9DF0=",
+  "success": false,
+  "projectFilePath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP5_clone\\OOP5_clone.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\DOC\\ky5\\PRN212\\Code trong lop\\Chapter5\\Chapter5\\PrototypePattern\\PrototypePattern.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\Chapter5\\Chapter5\\PrototypePattern\\PrototypePattern.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

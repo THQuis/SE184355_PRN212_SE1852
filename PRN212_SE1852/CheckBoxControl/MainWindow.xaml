@@ -1,0 +1,39 @@
+﻿<Window x:Class="CheckBoxControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBoxControl"
+        mc:Ignorable="d"
+        Title="CheckBox Sự kiện" Height="200" Width="300">
+    <Grid>
+        <Label Content="Bạn thích những gì?" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkToanBo" 
+                  Checked="ChkToanBo_Checked"  
+                  Unchecked="ChkToanBo_Unchecked" 
+                  Content=" Thích toàn bộ hoạt động" 
+                  HorizontalAlignment="Left" Margin="19,47,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkCongNge" 
+                  Checked="ChkSub_CheckedChanged" 
+                  Unchecked="ChkSub_CheckedChanged" 
+                  Content="Thích nghiên cứu công ngệ" 
+                  HorizontalAlignment="Left" Margin="58,67,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkDuLich" 
+                  Checked="ChkSub_CheckedChanged" 
+                  Unchecked="ChkSub_CheckedChanged" 
+                  Content="Thích đi du lịch" 
+                  HorizontalAlignment="Left" Margin="58,87,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkDaBong" 
+                  Checked="ChkSub_CheckedChanged" 
+                  Unchecked="ChkSub_CheckedChanged" 
+                  Content="Thích đá bóng" 
+                  HorizontalAlignment="Left" Margin="58,107,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkXemPhim" 
+                  Checked="ChkSub_CheckedChanged" 
+                  Unchecked="ChkSub_CheckedChanged" 
+                  Content="Thích xem phim" 
+                  HorizontalAlignment="Left" Margin="58,127,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+
+</Window>

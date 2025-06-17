@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Bai11\\Bai11.csproj": {}
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Bai11\\Bai11.csproj": {}
   },
   "projects": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Bai11\\Bai11.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Bai11\\Bai11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Bai11\\Bai11.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Bai11\\Bai11.csproj",
         "projectName": "Bai11",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Bai11\\Bai11.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Bai11\\Bai11.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Bai11\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Bai11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eO01cQcybKw=",
+  "dgSpecHash": "jh01LBx+hg0=",
   "success": true,
-  "projectFilePath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj",
+  "projectFilePath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\truon\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

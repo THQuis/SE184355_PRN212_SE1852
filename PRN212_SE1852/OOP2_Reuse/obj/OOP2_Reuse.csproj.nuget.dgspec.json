@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj": {}
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj": {}
   },
   "projects": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj",
         "projectName": "OOP2",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj",
         "projectName": "OOP2_Reuse",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2_Reuse\\OOP2_Reuse.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2_Reuse\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2_Reuse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
-                "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj"
+              "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
+                "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj"
               }
             }
           }

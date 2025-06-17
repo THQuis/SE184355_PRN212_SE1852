@@ -704,11 +704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj",
+      "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj",
       "projectName": "DemoMyStoreLINQ2SQL",
-      "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj",
+      "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj",
       "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-      "outputPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\obj\\",
+      "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

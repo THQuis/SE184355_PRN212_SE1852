@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj": {}
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj": {}
   },
   "projects": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj",
         "projectName": "Collection_Generic",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Collection_Generic\\Collection_Generic.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\Collection_Generic\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Collection_Generic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
-                "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj"
+              "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
+                "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj",
         "projectName": "OOP2",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\OOP2.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\OOP2.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\OOP2\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\OOP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

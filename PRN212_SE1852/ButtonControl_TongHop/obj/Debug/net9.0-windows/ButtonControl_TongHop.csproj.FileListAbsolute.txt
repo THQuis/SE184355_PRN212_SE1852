@@ -17,3 +17,23 @@ D:\DOC\ky5\PRN212\code\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-wind
 D:\DOC\ky5\PRN212\code\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.pdb
 D:\DOC\ky5\PRN212\code\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.genruntimeconfig.cache
 D:\DOC\ky5\PRN212\code\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ref\ButtonControl_TongHop.dll
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\bin\Debug\net9.0-windows\ButtonControl_TongHop.exe
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\bin\Debug\net9.0-windows\ButtonControl_TongHop.deps.json
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\bin\Debug\net9.0-windows\ButtonControl_TongHop.runtimeconfig.json
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\bin\Debug\net9.0-windows\ButtonControl_TongHop.dll
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\bin\Debug\net9.0-windows\ButtonControl_TongHop.pdb
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\MainWindow.baml
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\App.g.cs
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop_MarkupCompile.cache
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.g.resources
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.sourcelink.json
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.dll
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\refint\ButtonControl_TongHop.dll
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.pdb
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ButtonControl_TongHop.genruntimeconfig.cache
+D:\DOC\ky5\PRN212\Code trong lop\SE184355_PRN212_SE1852\PRN212_SE1852\ButtonControl_TongHop\obj\Debug\net9.0-windows\ref\ButtonControl_TongHop.dll

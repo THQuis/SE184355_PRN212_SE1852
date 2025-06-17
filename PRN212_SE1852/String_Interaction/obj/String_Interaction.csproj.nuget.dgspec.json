@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj": {}
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj": {}
   },
   "projects": {
-    "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj",
         "projectName": "String_Interaction",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\String_Interaction\\String_Interaction.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\String_Interaction\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\String_Interaction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

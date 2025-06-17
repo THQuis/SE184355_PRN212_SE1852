@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\",
+  "WorkspaceRootPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22984CCE-C732-41F2-9805-6BE63C1B0C15}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{22984CCE-C732-41F2-9805-6BE63C1B0C15}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{AAF7B1DC-6974-45DA-BDC8-B4BBCA7896F3}|RadioButtonControl\\RadioButtonControl.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AAF7B1DC-6974-45DA-BDC8-B4BBCA7896F3}|RadioButtonControl\\RadioButtonControl.csproj|solutionrelative:radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22984CCE-C732-41F2-9805-6BE63C1B0C15}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\buttoncontrol_tonghop\\buttoncontrol_tonghop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{22984CCE-C732-41F2-9805-6BE63C1B0C15}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\buttoncontrol_tonghop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7272FC76-67EF-4CE7-AB91-A9B497C72EA1}|CheckBoxControl\\CheckBoxControl.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\checkboxcontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7272FC76-67EF-4CE7-AB91-A9B497C72EA1}|CheckBoxControl\\CheckBoxControl.csproj|solutionrelative:checkboxcontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22984CCE-C732-41F2-9805-6BE63C1B0C15}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22984CCE-C732-41F2-9805-6BE63C1B0C15}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|solutionrelative:listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\hellowwpfapp\\sumwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|solutionrelative:hellowwpfapp\\sumwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\hellowwpfapp\\sumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|solutionrelative:hellowwpfapp\\sumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\hellowwpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|solutionrelative:hellowwpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\hellowwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|solutionrelative:hellowwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|d:\\doc\\ky5\\prn212\\code\\prn212_se1852\\hellowwpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09FBF2D-464D-4B22-8D2B-001428D8536E}|HelloWWPFApp\\HelloWWPFApp.csproj|solutionrelative:hellowwpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|solutionrelative:listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ButtonControl_TongHop",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\ButtonControl_TongHop\\ButtonControl_TongHop.csproj",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\ButtonControl_TongHop.csproj",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\ButtonControl_TongHop\\ButtonControl_TongHop.csproj",
-              "RelativeToolTip": "ButtonControl_TongHop\\ButtonControl_TongHop.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-14T15:57:57.181Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -65,86 +36,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\RadioButtonControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RadioButtonControl\\MainWindow.xaml",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\RadioButtonControl\\MainWindow.xaml",
+              "RelativeToolTip": "RadioButtonControl\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-14T15:56:44.212Z",
+              "WhenOpened": "2025-06-17T01:58:53.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\CheckBoxControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckBoxControl\\MainWindow.xaml",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\CheckBoxControl\\MainWindow.xaml",
+              "RelativeToolTip": "CheckBoxControl\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T01:56:00.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T15:56:43.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SumWindow.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\SumWindow.xaml",
-              "RelativeDocumentMoniker": "HelloWWPFApp\\SumWindow.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\SumWindow.xaml",
-              "RelativeToolTip": "HelloWWPFApp\\SumWindow.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml",
+              "RelativeToolTip": "ListWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-14T15:39:47.353Z",
+              "WhenOpened": "2025-06-17T01:35:17.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SumWindow.xaml.cs",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\SumWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HelloWWPFApp\\SumWindow.xaml.cs",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\SumWindow.xaml.cs",
-              "RelativeToolTip": "HelloWWPFApp\\SumWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAlwCAAAAAmAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAApwHEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T15:40:15.52Z",
+              "WhenOpened": "2025-06-17T01:35:17.439Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\App.xaml",
-              "RelativeDocumentMoniker": "HelloWWPFApp\\App.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\App.xaml",
-              "RelativeToolTip": "HelloWWPFApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-14T15:25:14.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HelloWWPFApp\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "HelloWWPFApp\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T15:19:15.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "HelloWWPFApp\\LoginWindow.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\code\\PRN212_SE1852\\HelloWWPFApp\\LoginWindow.xaml",
-              "RelativeToolTip": "HelloWWPFApp\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-14T15:18:56.516Z"
             }
           ]
         }
