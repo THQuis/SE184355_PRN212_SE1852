@@ -1,0 +1,22 @@
+﻿<Window x:Class="TruongHoangQuiWFP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TruongHoangQuiWFP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="900">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Quản lý khách hàng" x:Name="menuCustomer" Click="MenuCustomer_Click"/>
+            <MenuItem Header="Quản lý sản phẩm" x:Name="menuProduct" Click="MenuProduct_OnClick"/>
+            <MenuItem Header="Quản lý đơn hàng" x:Name="menuOrder" Click="MenuOrder_OnClick"/>
+            <MenuItem Header="Báo cáo" x:Name="menuReport" Click="MenuReport_OnClick"/>
+            <MenuItem Header="Lịch sử đơn hàng" x:Name="menuOrderHistory" Click="MenuOrderHistory_OnClick"/>
+            <MenuItem Header="Hồ sơ cá nhân" x:Name="menuProfile" Click="MenuProfile_OnClick"/>
+            <MenuItem Header="Đăng xuất" Click="MenuLogout_Click"/>
+
+        </Menu>
+        <ContentControl x:Name="MainContent"/>
+    </DockPanel>
+</Window>

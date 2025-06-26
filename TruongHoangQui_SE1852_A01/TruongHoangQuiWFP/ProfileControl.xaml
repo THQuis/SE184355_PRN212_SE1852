@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="TruongHoangQuiWFP.ProfileControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="400" Width="400">
+    <StackPanel Margin="20">
+        <TextBlock Text="Chỉnh sửa hồ sơ cá nhân" FontSize="16" FontWeight="Bold" Margin="0,0,0,20"/>
+
+        <TextBlock Text="Tên công ty:"/>
+        <TextBox x:Name="txtCompanyName" Width="250"/>
+
+        <TextBlock Text="Tên liên hệ:" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtContactName" Width="250"/>
+
+        <TextBlock Text="Số điện thoại:" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtPhone" Width="250"/>
+
+        <TextBlock Text="Mật khẩu:" Margin="0,10,0,0"/>
+        <PasswordBox x:Name="txtPassword" Width="250"/>
+
+        <Button Content="Lưu thay đổi" Width="120" Margin="0,20,0,0" Click="BtnSave_Click"/>
+    </StackPanel>
+</UserControl>
