@@ -93,7 +93,7 @@ namespace HelloWWPFApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HelloWWPFApp;V1.0.0.0;component/sumwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HelloWWPFApp;component/sumwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\SumWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReviewNestedLoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1628095e6e177247fc39187d5a8996f225c56a20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf2f49a1c6040b1f1aeb0a66206d84cce5f9a75f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReviewNestedLoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReviewNestedLoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

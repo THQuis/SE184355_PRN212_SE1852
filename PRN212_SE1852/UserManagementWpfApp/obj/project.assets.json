@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "BussinessObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BussinessObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BussinessObjects.dll": {}
+        }
+      },
+      "DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BussinessObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DataAccessLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "Servies/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BussinessObjects": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Servies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Servies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BussinessObjects/1.0.0": {
+      "type": "project",
+      "path": "../BussinessObjects/BussinessObjects.csproj",
+      "msbuildProject": "../BussinessObjects/BussinessObjects.csproj"
+    },
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/DataAccessLayer.csproj",
+      "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Servies/1.0.0": {
+      "type": "project",
+      "path": "../Servies/Servies.csproj",
+      "msbuildProject": "../Servies/Servies.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "BussinessObjects >= 1.0.0",
+      "Servies >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\truon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\UserManagementWpfApp\\UserManagementWpfApp.csproj",
+      "projectName": "UserManagementWpfApp",
+      "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\UserManagementWpfApp\\UserManagementWpfApp.csproj",
+      "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
+      "outputPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\UserManagementWpfApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {
+            "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\BussinessObjects\\BussinessObjects.csproj": {
+              "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\BussinessObjects\\BussinessObjects.csproj"
+            },
+            "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Servies\\Servies.csproj": {
+              "projectPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\Servies\\Servies.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAF7B1DC-6974-45DA-BDC8-B4BBCA7896F3}|RadioButtonControl\\RadioButtonControl.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AAF7B1DC-6974-45DA-BDC8-B4BBCA7896F3}|RadioButtonControl\\RadioButtonControl.csproj|solutionrelative:radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{48BC5468-AB01-43F3-81DB-C3357372CD2A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BC5468-AB01-43F3-81DB-C3357372CD2A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7272FC76-67EF-4CE7-AB91-A9B497C72EA1}|CheckBoxControl\\CheckBoxControl.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\checkboxcontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7272FC76-67EF-4CE7-AB91-A9B497C72EA1}|CheckBoxControl\\CheckBoxControl.csproj|solutionrelative:checkboxcontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{48BC5468-AB01-43F3-81DB-C3357372CD2A}|DataAccessLayer\\DataAccessLayer.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BC5468-AB01-43F3-81DB-C3357372CD2A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|solutionrelative:listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7444D69A-1C37-4517-ADBC-584FDEAD4FA9}|BussinessObjects\\BussinessObjects.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\bussinessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7444D69A-1C37-4517-ADBC-584FDEAD4FA9}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AB5E4B-3D1D-4A6A-9FB3-88472CE5062D}|ListWPF\\ListWPF.csproj|solutionrelative:listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7444D69A-1C37-4517-ADBC-584FDEAD4FA9}|BussinessObjects\\BussinessObjects.csproj|d:\\doc\\ky5\\prn212\\code trong lop\\se184355_prn212_se1852\\prn212_se1852\\bussinessobjects\\bussinessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7444D69A-1C37-4517-ADBC-584FDEAD4FA9}|BussinessObjects\\BussinessObjects.csproj|solutionrelative:bussinessobjects\\bussinessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\RadioButtonControl\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "RadioButtonControl\\MainWindow.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\RadioButtonControl\\MainWindow.xaml",
-              "RelativeToolTip": "RadioButtonControl\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T01:58:53.766Z",
+              "DocumentIndex": 1,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DataAccessLayer\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DataAccessLayer\\UserDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:40:25.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\CheckBoxControl\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CheckBoxControl\\MainWindow.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\CheckBoxControl\\MainWindow.xaml",
-              "RelativeToolTip": "CheckBoxControl\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T01:56:00.718Z",
+              "DocumentIndex": 0,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:40:15.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ListWPF\\MainWindow.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml",
-              "RelativeToolTip": "ListWPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T01:35:17.605Z",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\BussinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BussinessObjects\\Product.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\BussinessObjects\\Product.cs",
+              "RelativeToolTip": "BussinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:39:53.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ListWPF\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\ListWPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ListWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAApwHEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T01:35:17.439Z",
+              "Title": "BussinessObjects",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\BussinessObjects\\BussinessObjects.csproj",
+              "RelativeDocumentMoniker": "BussinessObjects\\BussinessObjects.csproj",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\Code trong lop\\SE184355_PRN212_SE1852\\PRN212_SE1852\\BussinessObjects\\BussinessObjects.csproj",
+              "RelativeToolTip": "BussinessObjects\\BussinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T06:39:51.636Z",
               "EditorCaption": ""
             }
           ]
