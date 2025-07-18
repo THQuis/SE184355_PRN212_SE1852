@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\Repositories\\Repositories.csproj": {}
+    "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
+              "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -128,6 +128,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.7, )"
             }
           },
           "imports": [
@@ -150,14 +154,14 @@
         }
       }
     },
-    "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
+    "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\Repositories\\obj\\",
+        "outputPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,11 +182,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
+              "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
               },
-              "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }

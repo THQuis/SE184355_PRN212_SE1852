@@ -1,13 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\",
+  "WorkspaceRootPath": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|d:\\doc\\ky5\\prn212\\asm 02\\productmanagementdemo\\quiwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|d:\\doc\\ky5\\prn212\\asm 02\\se184355_prn212_se1852\\productmanagementdemo\\quiwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|solutionrelative:quiwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EAEC94-113E-4EBC-A71F-228FD562EBA8}|DataAccessLayer\\DataAccessLayer.csproj|d:\\doc\\ky5\\prn212\\asm 02\\se184355_prn212_se1852\\productmanagementdemo\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EAEC94-113E-4EBC-A71F-228FD562EBA8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|d:\\doc\\ky5\\prn212\\asm 02\\se184355_prn212_se1852\\productmanagementdemo\\quiwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|solutionrelative:quiwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EAEC94-113E-4EBC-A71F-228FD562EBA8}|DataAccessLayer\\DataAccessLayer.csproj|d:\\doc\\ky5\\prn212\\asm 02\\se184355_prn212_se1852\\productmanagementdemo\\dataaccesslayer\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EAEC94-113E-4EBC-A71F-228FD562EBA8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|d:\\doc\\ky5\\prn212\\asm 02\\se184355_prn212_se1852\\productmanagementdemo\\quiwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|solutionrelative:quiwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|d:\\doc\\ky5\\prn212\\asm 02\\productmanagementdemo\\quiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|d:\\doc\\ky5\\prn212\\asm 02\\se184355_prn212_se1852\\productmanagementdemo\\quiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C60135C0-ACC8-4618-A287-F3012C704BAB}|QuiWPF\\QuiWPF.csproj|solutionrelative:quiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,11 +82,63 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuiWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "QuiWPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:02:06.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:58:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\Models\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\MyStoreContext.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\DataAccessLayer\\Models\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\MyStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:37:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "QuiWPF\\appsettings.json",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\appsettings.json",
+              "RelativeToolTip": "QuiWPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T02:35:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "QuiWPF\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "QuiWPF\\MainWindow.xaml.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAQwG4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "QuiWPF\\MainWindow.xaml",
-              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\DOC\\ky5\\PRN212\\ASM 02\\SE184355_PRN212_SE1852\\ProductManagementDemo\\QuiWPF\\MainWindow.xaml",
               "RelativeToolTip": "QuiWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-17T05:23:23.621Z"
